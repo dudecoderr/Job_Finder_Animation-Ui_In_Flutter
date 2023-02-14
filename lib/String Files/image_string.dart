@@ -5,23 +5,3 @@ const String gif3 = "assets/gif3.gif";
 
 ///________________________ Home __________________
 const String profile_1 = "assets/profile_1.png";
-
-// const String Skip = "Skip";
-// const String Skip = "Skip";
-// const String Skip = "Skip";
-// const String Skip = "Skip";
-// const String Skip = "Skip";
-// const String Skip = "Skip";
-// // const String Skip = "Skip";
-// // const String Skip = "Skip";
-// // const String Skip = "Skip";
-// // const String Skip = "Skip";
-// // const String Skip = "Skip";
-// const String Skip = "Skip";
-// // const String Skip = "Skip";
-// // const String Skip = "Skip";
-// // const String Skip = "Skip";
-// // const String Skip = "Skip";
-// // const String Skip = "Skip";
-// const String Skip = "Skip";
-// // const String Skip = "Skip";
