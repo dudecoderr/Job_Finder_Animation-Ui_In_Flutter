@@ -9,8 +9,6 @@
 Note: _**last updated january 2023 configured project to latest flutter version 3.7.0**_
 
 
-
-
 <p align="center">
 <img src="" width="200%">
 </p>
