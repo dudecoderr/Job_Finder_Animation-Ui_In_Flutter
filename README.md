@@ -10,7 +10,7 @@ Note: _**last updated january 2023 configured project to latest flutter version 
 
 
 <p align="center">
-<img src="" width="200%">
+<img src="https://raw.githubusercontent.com/dudecoderr/Job_Finder_Animation-Ui_In_Flutter/main/assets/Redme.jpg" width="200%">
 </p>
 
 **Packages used:**
